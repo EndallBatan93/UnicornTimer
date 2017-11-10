@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unicorn Timer</string>
+    <string name="buttonText">Stroke a Unicorn</string>
+    <string name="namedefault">UnicornId</string>
+    <string name="Hours">Hours</string>
+    <string name="Minutes">Minutes</string>
+    <string name="createButton">Create Unicorn Killing Countdown</string>
+</resources>
